@@ -6,8 +6,10 @@ markdown: kramdown
 buttons:
  - text: Home
    url: /
- - text: Work
-   url: work
+ - text: Journalism
+   url: journalism
+ - text: Research
+   url: research
  - text: Teaching
    url: teaching
  - text: Media
@@ -15,7 +17,7 @@ buttons:
 
 social:
   - type: email
-    value: mailto:dhrumil.mehta@fivethirtyeight.com
+    value: mailto:dhrumil.mehta@columbia.edu
     class: envelope-o
   - type: github
     value: https://github.com/dmil

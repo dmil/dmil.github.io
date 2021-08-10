@@ -2,11 +2,20 @@
 layout: default
 ---
 
+# Appointments
+
+_Associate Professor in Journalism_ at the Columbia University Graduate School of Journalism
+
+_Visiting Associate Professor in Public Policy_ at the Harvard Kennedy School of Government
+
+
 # Classes
 
 _Programming and Data for Policymakers_, a course which I developed that blended hands-on programming lessons and discussions about technology policy at the [Harvard Kennedy School](https://www.hks.harvard.edu/courses/programming-and-data-policymakers)
 
 # Workshops
+
+_The Transparency Series - Political Polling_ workshop teaching students at [Columbia University](https://brown.columbia.edu/event/the-transparency-series-political-polling/) the basics of reporting on public opinion polls.
 
 _How to Tell a Story With Data: Tools of the Trade_ workshop at the [Harvard Kennedy School](https://ash.harvard.edu/event/how-tell-story-data-tools-trade)
 
